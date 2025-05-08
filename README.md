@@ -1,6 +1,5 @@
-============================================================
-  Empty File and Folder Cleaner
-============================================================
+Empty File and Folder Cleaner
+
 Author: Andrea Agosti
 Date: 2025-05-07
 
